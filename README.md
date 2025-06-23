@@ -19,9 +19,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -49,16 +46,48 @@
   </a>
 </p>
 
+<h3 align="left">Testing Strategy & Planning:</h3>
+<ul>
+  <li>Testing Strategy</li>
+  <li>Testing Plan</li>
+</ul>
+
+<h3 align="left">Test Management Tools:</h3>
+<p align="left">
+  <a href="https://www.getxray.app/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/8255732?s=200&v=4" alt="xray" width="40" height="40"/>
+  </a>
+  <a href="https://www.testrail.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/T/testrail-logo-0B2B6B8C2B-seeklogo.com.png" alt="testrail" width="40" height="40"/>
+  </a>
+  <a href="https://www.microfocus.com/en-us/products/alm-quality-center/overview" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/micro-focus.svg" alt="hp alm" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">BDD & Cucumber:</h3>
+<ul>
+  <li>BDD (Behavior Driven Development)</li>
+  <li>Gherkin</li>
+  <li>
+    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/cucumber/cucumber/master/images/cucumber-logo.svg" alt="cucumber" width="40" height="40"/>
+      Cucumber
+    </a>
+  </li>
+</ul>
+
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,6 +107,16 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Project Management:</h3>
+<p align="left">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
   </a>
 </p>
 
