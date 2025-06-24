@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carmen Pareja</h1>
 <h3 align="center">A passionate SDET (Software Development Engineer in Test)</h3>
 
-- 🔭 I’m currently working on **Schroders**
+- 🔭 I’m currently working at **Schroders**
 
 - 🌱 I’m currently learning **AI**
 
@@ -64,7 +64,6 @@
   <li>
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcTovmEheRu2fTtdDcvKLgP4a91Bb8jvhCQ&s" alt="cucumber" width="40" height="40"/>
-      Cucumber
     </a>
   </li>
 </ul>
