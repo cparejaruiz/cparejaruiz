@@ -29,7 +29,7 @@
 <h4>Testing Frameworks:</h4>
 <p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="cypress" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
@@ -51,14 +51,14 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/usebruno/bruno/main/public/bruno-icon.png" alt="bruno" width="40" height="40"/>
+    <img src="https://docs.usebruno.com/bruno.png" alt="bruno" width="40" height="40"/>
   </a>
 </p>
 
 <h4>Test Management Tools:</h4>
 <p align="left">
   <a href="https://www.getxray.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/xray-for-jira-ehlprq39608no8nw52j489.png/xray-for-jira-8c7ael4m5zn9xoplv4xzs9.png?_a=DATAdtAAZAA0" alt="xray" width="40" height="40"/>
+    <img src="https://bit2bitamericas.com/wp-content/uploads/2022/08/logo_xray_banner.png" alt="xray" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.testrail.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://images.sftcdn.net/images/t_app-icon-m/p/cf621780-b1a7-4fcc-a83a-ab4b48ef524a/552890671/testrail-testrail-logo-100.png" alt="testrail" width="40" height="40"/>
@@ -169,7 +169,7 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFo0J6E3t1f-LsIqy_sgwody_oh3viUwV66Q&s" alt="photoshop" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -185,7 +185,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Natural Languages:</h3>
 <ul>
   <li>Spanish (Native)</li>
   <li>English (Professional)</li>
