@@ -37,9 +37,6 @@
   <a href="https://testcafe.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/DevExpress/testcafe/master/media/testcafe-logo.svg" alt="testcafe" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://mochajs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  </a>&nbsp;
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
   </a>
