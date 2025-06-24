@@ -117,6 +117,9 @@
   </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
@@ -143,7 +146,7 @@
   </a>
 </p>
 
-<h3 align="left">Project Management:</h3>
+<h3 align="left">Project Management & Agile Practices:</h3>
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
@@ -152,20 +155,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Agile Practices:</h3>
 <ul>
-  <li>
-    <a href="https://www.scrum.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/68760595/164306020-120e8664-cb5b-459a-80a3-99e13b057b52.png" alt="scrum" width="32" height="32"/>
-      Scrum
-    </a>
-  </li>
-  <li>
-    <a>
-      Kanban
-    </a>
-  </li>
+  <li>Scrum</li>
+  <li>Kanban</li>
 </ul>
 
 <h3 align="left">Other Tools:</h3>
@@ -192,3 +184,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Languages:</h3>
+<ul>
+  <li>Spanish (Native)</li>
+  <li>English (Professional)</li>
+</ul>
