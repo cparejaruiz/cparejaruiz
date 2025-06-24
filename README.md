@@ -14,9 +14,17 @@
 <a href="https://linkedin.com/in/cparejaruiz" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cparejaruiz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Testing & QA:</h3>
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+</p>
 
-<h4>Testing Tools:</h4>
+<h3 align="left">Testing Frameworks:</h3>
 <p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
@@ -32,17 +40,10 @@
   </a>&nbsp;
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
-<h4>Testing Strategy & Planning:</h4>
-<ul>
-  <li>Testing Strategy</li>
-  <li>Testing Plan</li>
-</ul>
+<h3 align="left">Testing & QA:</h3>
 
 <h4>Test Management Tools:</h4>
 <p align="left">
