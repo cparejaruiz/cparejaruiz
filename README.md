@@ -24,7 +24,9 @@
   </a>
 </p>
 
-<h3 align="left">Testing Frameworks:</h3>
+<h3 align="left">Testing & QA:</h3>
+
+<h4>Testing Frameworks:</h4>
 <p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
@@ -43,7 +45,15 @@
   </a>
 </p>
 
-<h3 align="left">Testing & QA:</h3>
+<h4>API Testing Tools:</h4>
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/usebruno/bruno/main/public/bruno-icon.png" alt="bruno" width="40" height="40"/>
+  </a>
+</p>
 
 <h4>Test Management Tools:</h4>
 <p align="left">
@@ -70,7 +80,6 @@
   <li>
     <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcTovmEheRu2fTtdDcvKLgP4a91Bb8jvhCQ&s" alt="cucumber" width="40" height="40"/>
-      Cucumber
     </a>
   </li>
 </ul>
@@ -97,7 +106,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://azure.microsoft.com/en-in/services/devops/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Azure_DevOps_Logo.svg" alt="azure devops" width="40" height="40"/>
+    <img src="https://www.techsoup.es/sites/default/files/styles/medium/public/prod-microsoft-azure-devops-server_big.png?itok=SwjXtetp" alt="azure devops" width="40" height="40"/>
   </a>
 </p>
 
@@ -124,7 +133,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="windows" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.android.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="android" width="40" height="40"/>
@@ -148,13 +157,12 @@
 <ul>
   <li>
     <a href="https://www.scrum.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Logo.svg" alt="scrum" width="32" height="32"/>
+      <img src="https://user-images.githubusercontent.com/68760595/164306020-120e8664-cb5b-459a-80a3-99e13b057b52.png" alt="scrum" width="32" height="32"/>
       Scrum
     </a>
   </li>
   <li>
-    <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban" target="_blank" rel="noopener noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Kanban-board-icon.png" alt="kanban" width="32" height="32"/>
+    <a>
       Kanban
     </a>
   </li>
