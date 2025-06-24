@@ -58,13 +58,19 @@
   </a>
 </p>
 
-<h4>BDD & Cucumber:</h4>
+<h4>Quality Practices:</h4>
 <ul>
-  <li>BDD (Behavior Driven Development)</li>
+  <li>Shift Left Testing</li>
+  <li>Specification by Example</li>
+  <li>Testing Pyramid</li>
+  <li>Test Automation Strategy</li>
+  <li>Continuous Testing</li>
+  <li>Behavior Driven Development (BDD)</li>
   <li>Gherkin</li>
   <li>
     <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcTovmEheRu2fTtdDcvKLgP4a91Bb8jvhCQ&s" alt="cucumber" width="40" height="40"/>
+      Cucumber
     </a>
   </li>
 </ul>
@@ -83,26 +89,48 @@
   </a>
 </p>
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">DevOps Tools:</h3>
+
+<h4>CI/CD:</h4>
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/en-in/services/devops/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Azure_DevOps_Logo.svg" alt="azure devops" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">Development & Ops Tools:</h3>
+<h4>Containers & Version Control:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
+</p>
+
+<h3 align="left">Cloud:</h3>
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Operating Systems:</h3>
+<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.android.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="android" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.apple.com/ios/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" alt="ios" width="40" height="40"/>
   </a>
 </p>
 
@@ -115,6 +143,22 @@
     <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Agile Practices:</h3>
+<ul>
+  <li>
+    <a href="https://www.scrum.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Logo.svg" alt="scrum" width="32" height="32"/>
+      Scrum
+    </a>
+  </li>
+  <li>
+    <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban" target="_blank" rel="noopener noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Kanban-board-icon.png" alt="kanban" width="32" height="32"/>
+      Kanban
+    </a>
+  </li>
+</ul>
 
 <h3 align="left">Other Tools:</h3>
 <p align="left">
