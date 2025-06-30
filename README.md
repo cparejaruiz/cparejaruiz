@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Playwright or Test Strategy**
 
-- 📫 How to reach me **cparejaruiz(at)gmail.com**
+- 📫 How to reach me **cparejaruiz(at)gmail(dot)com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
